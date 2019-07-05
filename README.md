@@ -1,5 +1,6 @@
 # dotnet-sdk-2.2.203-linux-arm64-NoICU
 
+```Shell
 FailFast:
 Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.
 
@@ -14,3 +15,4 @@ Couldn't find a valid ICU package installed on the system. Set the configuration
    at System.AppDomain.CreateAppDomainManager()
    at System.AppDomain.Setup(System.Object)
 Aborted (core dumped)
+```
